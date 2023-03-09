@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'fontWero'
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('https://picsum.photos/1440/1080/?blur=2'); */
+  /* background-image: url('../public/img/tomoko-uji-eriuKJwcdjI-unsplash.jpg'); */
+  /* background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  background-attachment: fixed; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', 'fontWero',
+    monospace;
+}
+
+@font-face {
+	font-family: "fontWero";
+	src: url(./font/NotoSansKR-Regular.otf);
+}

@@ -1,0 +1,20 @@
+.active {
+    padding-bottom: 2px;
+    border-bottom: 4px solid transparent;
+    border-color: #0177FB;
+    font-weight: bolder;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url('../../../public/img/alex-gruber-r83n-8BxVCI-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur(3px);
+}
