@@ -12,7 +12,7 @@ import requests
 import xmltodict
 import pandas as pd
 
-service_key = 'Xjrk7R6ncYtA8UHYXLRkSvKtzP89LzXulpjZjN4/Sn9dP+nynxQTX3qUhO9crXlvnn3dfaiFp6ukCral+R9fpA=='
+service_key = 
 url = 'http://apis.data.go.kr/1661000/EmergencyInformationService/getEmgPatientTransferInfo'
 
 a = ['강남소방서', '강북소방서', '강동소방서', '강서소방서', '관악소방서', '광진소방서', '구로소방서', '도봉소방서', '노원소방서',
