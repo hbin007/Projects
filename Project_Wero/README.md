@@ -19,7 +19,3 @@ AWS를 사용한 웹 배포 RDS사용한 mysql 서버도 같이 운영
 ![image](https://user-images.githubusercontent.com/89787182/223964363-65e683ab-1e7a-4910-ad01-e8bff0b6bbb8.png)
 
 ![image](https://user-images.githubusercontent.com/89787182/223964476-67dc3095-9b71-487f-a276-658743271af2.png)
-
-
-
-http://wero-env.eba-mvbzp2mp.ap-northeast-2.elasticbeanstalk.com/
