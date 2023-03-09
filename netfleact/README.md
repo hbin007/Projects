@@ -11,8 +11,8 @@ css를 활용한 이미지 배치와 색상조절 호버링 설정
 
 
 ![image](https://user-images.githubusercontent.com/89787182/223944504-d1f7bd09-5c75-4900-9828-30fdf05a75bc.png)
-![image](https://user-images.githubusercontent.com/89787182/223944576-855adea3-e17f-4c33-a05b-975adebc1be6.png)
 
+![image](https://user-images.githubusercontent.com/89787182/223944686-34c3e7a2-47d6-43a0-80fe-6e4adf48e7ec.png)
 
 
 
